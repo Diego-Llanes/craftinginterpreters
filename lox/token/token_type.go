@@ -1,4 +1,4 @@
-package lox
+package token
 
 const (
 	// Single Charachter tokens
@@ -49,4 +49,3 @@ const (
 
 	EOF
 )
-
